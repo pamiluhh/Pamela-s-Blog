@@ -1,0 +1,5 @@
+{
+  "name": "Pamela's Blog",
+  "description": "A fully functional blog website with a visitor and admin side, connected to Firebase Realtime Database.",
+  "requestFramePermissions": []
+}
